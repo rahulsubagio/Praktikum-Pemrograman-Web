@@ -1,15 +1,18 @@
-# Praktikum-Pemrograman-Web
+### Praktikum-Pemrograman-Web
 Praktikum Pemrograman Web Plug D... semester 3 tahun 2019
 
-# Folder LOGIN
+### Folder LOGIN
 Membuat LOGIN menggunakan PHP dan data login tersimpan di database..
 
-# Folder NWIND
+### Folder NWIND
 Tugas membuat vlog-2 dari mata kuliah pemrograman web..
 (cara mengakses database menggunakan PHP)..
 
-# Folder RENRAL-MOBIL
+### Folder RENRAL-MOBIL
 Project teori basis data.. menggunakan php native
 
-# Folder CRUD
+### Folder CRUD
 Program tentang materi CRUD
+
+### Folder LATRES
+Program latihan responsi tentang PT. Borongan Bangsa
